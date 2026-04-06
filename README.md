@@ -1,4 +1,4 @@
-# Smart Warranty Management System (SWMS) 🛡️
+# Smart Warranty Management System (SWMS)
 
 A professional, high-performance web application designed to unify and automate the entire warranty claim lifecycle—from initial product registration to final resolution.
 
