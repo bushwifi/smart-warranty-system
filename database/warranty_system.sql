@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `warranty_system`
 --
+CREATE DATABASE IF NOT EXISTS `warranty_system`;
+USE `warranty_system`;
 
 -- --------------------------------------------------------
 
